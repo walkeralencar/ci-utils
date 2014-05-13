@@ -1,6 +1,5 @@
 {
     "name": "walkeralencar/ci-utils",
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.4",
         "symfony/process": "~2.0",
