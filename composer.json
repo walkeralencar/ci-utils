@@ -1,5 +1,5 @@
 {
-    "name": "scrutinizer/utils",
+    "name": "walkeralencar/ci-utils",
 
     "require": {
         "php": ">=5.4",
